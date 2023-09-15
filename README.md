@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Web Development and other Programming languages
   
-- 📖 Working Hard everyday to be a better person and a better professional
+- 📖 Just starting out excited to be in the tech world 
 
 - 📫 How to reach me **ggdalaqua@gmail.com**
 

@@ -56,21 +56,6 @@
       height="40" /> </a> </p>
 
 <br>
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="![G3n4r00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G3n4r00&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)"
-    alt="G3n4r00" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="![G3n4r00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=G3n4r00&theme=vue-dark&hide_border=true)"
-    alt="G3n4r00" /></p>
-
-<br>
-
-<p><img align="center" src="![G3n4r00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=G3n4r00&theme=vue-dark&hide_border=true)" alt="G3n4r00" /></p>
       
 
 [G3n4r00](https://github.com/G3n4r00)

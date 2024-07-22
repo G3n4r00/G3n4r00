@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Genaro</h1>
+<h1 align="center">Hi 👋, I'm Gabriel Dalaqua</h1>
 <h3 align="center">Student at FIAP, São Paulo🌟.</h3>
 
 <br>
@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other Programming languages
+- 🌱 I’m currently studying to learn more about Data Science and Machine Learning
   
 - 📖 Just starting out excited to be in the tech world 
 

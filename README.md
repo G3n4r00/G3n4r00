@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="center">Skillset</h2>
+<h2 align="center">Skills</h2>
 
 
 <div align="center">

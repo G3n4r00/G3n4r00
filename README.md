@@ -4,10 +4,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=G3n4r00&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&custom_title=My%20Github%20Stats" height="155" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G3n4r00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G3n4r00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<h2 align="center">Skillset</h2>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
@@ -31,7 +34,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="ggdalaqua@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -39,11 +42,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/G3n4r00/G3n4r00/output/snake.svg" alt="Snake animation" />
 
 ###

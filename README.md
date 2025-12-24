@@ -1,14 +1,5 @@
 <h2 align="center">Hi 👋! My name is Gabriel and I'm a Data Engineer from Brazil</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G3n4r00&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&custom_title=My%20Github%20Stats" height="155" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G3n4r00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="center">Skills</h2>
 
 

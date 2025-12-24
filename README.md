@@ -1,7 +1,21 @@
 <h2 align="center">Hi 👋! My name is Gabriel and I'm a Data Engineer from Brazil</h2>
 
-<h2 align="center">Skills</h2>
+<br><br><br>
 
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="![sanji](https://github.com/user-attachments/assets/486e1ff5-cc7a-4506-8a82-790d88d56883)"
+>
+  
+<br><br><br>
+
+<pre>
+    💼 BSC @ FIAP • SAP Analytics Consultant • Data Engineer
+    🎮 Music • Games • Code • Art
+</pre>
+
+<br><br><br>
+
+<h2 align="center">Skills</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />

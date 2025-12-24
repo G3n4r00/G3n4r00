@@ -3,9 +3,10 @@
 <br><br><br>
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="![sanji](https://github.com/user-attachments/assets/486e1ff5-cc7a-4506-8a82-790d88d56883)"
->
-  
+<img src="![sanji](https://github.com/user-attachments/assets/3210be5a-3e63-4bc2-8220-42755b9e2246)">
+
+
+
 <br><br><br>
 
 <pre>

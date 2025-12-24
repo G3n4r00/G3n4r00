@@ -3,7 +3,7 @@
 <br><br><br>
 
 <div align="center">
-<img src="https://github.com/G3n4r00/G3n4r00/sanji.gif">
+<img src="https://github.com/G3n4r00/G3n4r00/blob/main/sanji.gif">
 
 
 

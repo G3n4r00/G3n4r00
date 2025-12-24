@@ -10,7 +10,7 @@
 <br><br><br>
 
 <pre>
-    💼 BSC @ FIAP • SAP Analytics Consultant • Data Engineer
+    💼 Software Engineer @ FIAP • SAP Analytics Consultant • Data Engineer
     🎮 Music • Games • Code • Art
 </pre>
 

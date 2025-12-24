@@ -1,11 +1,9 @@
 <h2 align="center">Hi! I´m Gabriel, a Data Engineer from Brazil</h2>
 
-<br><br><br>
+<br>
 
 <div align="center">
 <img src="https://github.com/G3n4r00/G3n4r00/blob/main/sanji.gif">
-
-
 
 <br><br><br>
 
@@ -14,7 +12,7 @@
     🎮 Music • Games • Code • Art
 </pre>
 
-<br><br><br>
+<br>
 
 <h2 align="center">Skills</h2>
 
